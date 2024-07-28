@@ -1,0 +1,24 @@
+main parts
+
+wemos ESP8266 - 2
+blue yell0w 0.96 SSD1306 OLED display - 1
+MQ-135 - 2
+DHT 22 -2
+ultrasonic sensor - 1
+5v DC 2A SSR - 4
+USB C TP4056 - 2
+3.7v 1000mah - 2000mah battery - 2
+
+other parts
+
+male and female short lag headers
+buzzer
+LED
+Dot board
+box
+
+
+#define BLYNK_TEMPLATE_ID "TMPL6edrAQpCC"
+#define BLYNK_TEMPLATE_NAME "SmartClass Climate"
+#define BLYNK_AUTH_TOKEN "NBwHqCHF34_NuwCmfPP6ykpm4HNoSGy-"
+
